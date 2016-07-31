@@ -4,5 +4,5 @@ https://jefersonnavarro.github.io/
 
 Coisas para fazer
 
-- [ ] aprender a usar Bootstrap
-- [ ] concluir o site
+- [ ] aprender a usar Bootstrap :persevere:
+- [ ] concluir o site :wink:
